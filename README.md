@@ -1,3 +1,4 @@
+"REMOTE"
 # Merge-conflits
 # Ici nous allons
 # créer un conflit
